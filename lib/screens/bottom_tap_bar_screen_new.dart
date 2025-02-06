@@ -26,11 +26,11 @@ import 'package:b2c/screens/bottom_nav_bar/store_screen/order_screens/delivery_i
 import 'package:b2c/screens/bottom_nav_bar/store_screen/order_screens/rejected_orders_screen_new.dart';
 import 'package:b2c/screens/bottom_nav_bar/store_screen/store_screen_new.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:store_app_b2b/constants/colors_const.dart';
+import 'package:store_app_b2b/constants/colors_const_new.dart';
 import 'auth/app_pending_screen_new.dart';
 import 'bottom_nav_bar/home_screens/controller/inventory_controller_new.dart';
 import 'bottom_nav_bar/store_screen/order_screens/new_order_screen_new.dart';
-import 'package:store_app_b2b/screens/home/home_screen.dart' as home;
+import 'package:store_app_b2b/screens/home/home_screen_new.dart' as home;
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

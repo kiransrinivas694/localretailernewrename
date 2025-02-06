@@ -2,11 +2,11 @@ import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/controllers/bottom_controller/store_controller/network_retailer/network_retailer_controller.dart';
-import 'package:store_app_b2b/controllers/bottom_controller/store_controller/store_controller.dart';
-import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/network_retailer_screens/network_retailer_list_screen.dart';
-import 'package:store_app_b2b/utils/shar_preferences.dart';
-import 'package:store_app_b2b/screens/home/home_screen.dart' as home;
+import 'package:store_app_b2b/controllers/bottom_controller/store_controller/network_retailer/network_retailer_controller_new.dart';
+import 'package:store_app_b2b/controllers/bottom_controller/store_controller/store_controller_new.dart';
+import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/network_retailer_screens/network_retailer_list_screen_new.dart';
+import 'package:store_app_b2b/utils/shar_preferences_new.dart';
+import 'package:store_app_b2b/screens/home/home_screen_new.dart' as home;
 
 class NotificationTyes {
   static const networkRetailerRequest = "networkRetailerRequest";

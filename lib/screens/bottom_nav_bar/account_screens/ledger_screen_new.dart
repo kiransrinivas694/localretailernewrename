@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
-import 'package:store_app_b2b/constants/colors_const.dart';
-import 'package:store_app_b2b/controllers/ledger_controller.dart';
+import 'package:store_app_b2b/constants/colors_const_new.dart';
+import 'package:store_app_b2b/controllers/ledger_controller_new.dart';
 
 class LedgerScreen extends StatelessWidget {
   LedgerScreen({super.key});

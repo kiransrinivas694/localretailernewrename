@@ -9,7 +9,7 @@ import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:store_app_b2b/service/api_service.dart';
+import 'package:store_app_b2b/service/api_service_new.dart';
 
 class DashboardController extends GetxController {
   List<TopBuyingProductModel> topBuyingProductsList = [];

@@ -1,7 +1,7 @@
 import 'package:b2c/screens/dashboard_screen/dashboard_screen_new.dart';
 import 'package:cron/cron.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/service/api_service.dart';
+import 'package:store_app_b2b/service/api_service_new.dart';
 
 class GlobalMainController extends GetxController {
   Cron cron = Cron();

@@ -9,7 +9,7 @@ import 'package:get/get.dart';
 //import 'package:zego_uikit_prebuilt_call/zego_uikit_prebuilt_call.dart';
 // ----------- vaishnav ---------------
 import '../controllers/auth_controller/login_controller_new.dart';
-import '../main_new.dart';
+import '../main.dart';
 import '../screens/bottom_nav_bar/store_screen/user_screen/missed_call_screen_new.dart';
 
 class FirebaseNotificationService {

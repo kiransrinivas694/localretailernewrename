@@ -22,7 +22,7 @@ import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
 import 'package:http_parser/http_parser.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:store_app_b2b/service/api_service.dart';
+import 'package:store_app_b2b/service/api_service_new.dart';
 
 class EditProfileController extends GetxController {
   var isLoading = false.obs;

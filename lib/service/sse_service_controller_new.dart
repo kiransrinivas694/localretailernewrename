@@ -4,7 +4,7 @@ import 'package:b2c/service/notification_service_new.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_client_sse/flutter_client_sse.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/utils/shar_preferences.dart';
+import 'package:store_app_b2b/utils/shar_preferences_new.dart';
 
 class SSEService extends GetxController with WidgetsBindingObserver {
   Stream<SSEModel>? sseStream;

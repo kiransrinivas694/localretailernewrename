@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/constants/colors_const.dart';
+import 'package:store_app_b2b/constants/colors_const_new.dart';
 
 extension SnackBar on String {
   showInfo() {

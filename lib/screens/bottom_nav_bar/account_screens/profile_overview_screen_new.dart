@@ -17,20 +17,20 @@ import 'package:flutter_html/flutter_html.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
 import 'package:responsive_sizer/responsive_sizer.dart';
-import 'package:store_app_b2b/constants/colors_const.dart';
-import 'package:store_app_b2b/controllers/bottom_controller/store_controller/store_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/my_bookings_screen.dart';
-import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_my_booking_screen.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
-import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/subscription_screens/subscription_history_screen.dart';
-import 'package:store_app_b2b/screens/home/notification_screen.dart';
-import 'package:store_app_b2b/service/api_service.dart';
-import 'package:store_app_b2b/utils/shar_preferences.dart';
+import 'package:store_app_b2b/constants/colors_const_new.dart';
+import 'package:store_app_b2b/controllers/bottom_controller/store_controller/store_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller_new.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/my_bookings_screen_new.dart';
+import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_my_booking_screen_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
+import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/subscription_screens/subscription_history_screen_new.dart';
+import 'package:store_app_b2b/screens/home/notification_screen_new.dart';
+import 'package:store_app_b2b/service/api_service_new.dart';
+import 'package:store_app_b2b/utils/shar_preferences_new.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:b2c/utils/shar_preferences_new.dart' as b2c_ref;
 
-import 'package:store_app_b2b/utils/shar_preferences.dart' as store_app_b2b;
+import 'package:store_app_b2b/utils/shar_preferences_new.dart' as store_app_b2b;
 
 class ProfileOverViewScreen extends StatelessWidget {
   const ProfileOverViewScreen({super.key});

@@ -2,8 +2,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
-import 'package:store_app_b2b/components/custom_toast.dart';
-import 'package:store_app_b2b/constants/colors_const.dart';
+import 'package:store_app_b2b/components/custom_toast_new.dart';
+import 'package:store_app_b2b/constants/colors_const_new.dart';
 
 class CommonSnackBar {
   static void showError(error) {

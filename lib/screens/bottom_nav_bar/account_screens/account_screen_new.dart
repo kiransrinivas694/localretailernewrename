@@ -20,8 +20,8 @@ import 'package:flutter_share/flutter_share.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 import 'package:share_plus/share_plus.dart';
-import 'package:store_app_b2b/constants/colors_const.dart';
-import 'package:store_app_b2b/utils/shar_preferences.dart';
+import 'package:store_app_b2b/constants/colors_const_new.dart';
+import 'package:store_app_b2b/utils/shar_preferences_new.dart';
 
 class ProfileScreen extends StatefulWidget {
   ProfileScreen(

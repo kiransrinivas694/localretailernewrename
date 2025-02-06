@@ -9,8 +9,8 @@ import 'package:b2c/utils/shar_preferences_new.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/controllers/home_controller.dart';
-import 'package:store_app_b2b/screens/home/home_screen.dart' as home;
+import 'package:store_app_b2b/controllers/home_controller_new.dart';
+import 'package:store_app_b2b/screens/home/home_screen_new.dart' as home;
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);

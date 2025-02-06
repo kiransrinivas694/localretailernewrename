@@ -196,8 +196,8 @@ import 'package:b2c/constants/colors_const_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-import 'package:store_app_b2b/controllers/video_player_controller.dart';
-import 'package:store_app_b2b/widget/app_image_assets.dart';
+import 'package:store_app_b2b/controllers/video_player_new.dart';
+import 'package:store_app_b2b/widget/app_image_assets_new.dart';
 import 'package:video_player/video_player.dart';
 
 import 'package:visibility_detector/visibility_detector.dart';
