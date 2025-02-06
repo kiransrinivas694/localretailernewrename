@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAWoYMQdIMPxneIcZdycdk1rvmvOLRrzqY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>974254646087</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.pvrc.LocalApp</string>
+	<key>PROJECT_ID</key>
+	<string>localretailer-4f594</string>
+	<key>STORAGE_BUCKET</key>
+	<string>localretailer-4f594.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:974254646087:ios:e99a4fd058e16c83ec6262</string>
+</dict>
+</plist>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>844786083345-i0ijs6j54dg1t0630ol4milquhi7e4m8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.844786083345-i0ijs6j54dg1t0630ol4milquhi7e4m8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>844786083345-15nsl6sl412kd2291lctvveopu83r2jv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDPkOTmGCar6gvstoBdyjhBDwJcl-za6p0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>844786083345</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.local.retailer</string>
+	<key>PROJECT_ID</key>
+	<string>join-local-admin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>join-local-admin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:844786083345:ios:84bfb7186be6ec6fc9f3b0</string>
+</dict>
+</plist> -->
+
+

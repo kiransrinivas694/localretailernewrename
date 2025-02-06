@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974254646087",
+    "project_id": "localretailer-4f594",
+    "storage_bucket": "localretailer-4f594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974254646087:android:e2016d45a54b5d0fec6262",
+        "android_client_info": {
+          "package_name": "com.local.retailer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ybQmVHTHV4TV13pujnjKoWUmnAMtWBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
