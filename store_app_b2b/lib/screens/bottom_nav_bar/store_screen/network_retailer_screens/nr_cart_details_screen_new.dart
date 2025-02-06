@@ -18,7 +18,7 @@ import 'package:store_app_b2b/controllers/bottom_controller/store_controller/net
 import 'package:store_app_b2b/controllers/bottom_controller/store_controller/network_retailer/nr_cart_controller_new.dart';
 import 'package:store_app_b2b/model/cart_model_new.dart';
 import 'package:store_app_b2b/service/api_service_new.dart';
-import 'package:store_app_b2b/widget/time_check.dart';
+import 'package:store_app_b2b/widget/time_check_new.dart';
 
 class NrCartDetailsScreen extends StatefulWidget {
   NrCartDetailsScreen({

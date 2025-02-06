@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:store_app_b2b/new_module/model/color/custom_colors.dart';
+import 'package:store_app_b2b/new_module/model/color/custom_colors_new.dart';
 
 class AppThemeColors {
   static CustomColors lightThemeCustomColors = CustomColors(

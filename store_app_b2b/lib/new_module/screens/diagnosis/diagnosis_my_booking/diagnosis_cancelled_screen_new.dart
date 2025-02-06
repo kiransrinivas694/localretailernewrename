@@ -5,11 +5,11 @@ import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 
 import 'package:responsive_sizer/responsive_sizer.dart';
-import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/model/cart/labtest_models/lab_test_status_model.dart';
-import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_refund_screen.dart';
-import 'package:store_app_b2b/new_module/snippets/snippets.dart';
+import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/model/cart/labtest_models/lab_test_status_model_new.dart';
+import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_refund_screen_new.dart';
+import 'package:store_app_b2b/new_module/snippets/snippets_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:store_app_b2b/widget/app_image_assets_new.dart';
 

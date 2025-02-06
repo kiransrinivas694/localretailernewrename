@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/new_module/constant/app_asset.dart';
+import 'package:store_app_b2b/new_module/constant/app_asset_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:store_app_b2b/widget/app_image_assets_new.dart';
 

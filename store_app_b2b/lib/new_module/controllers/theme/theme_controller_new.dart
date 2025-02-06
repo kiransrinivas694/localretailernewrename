@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/new_module/constant/app_theme_colors.dart';
-import 'package:store_app_b2b/new_module/model/color/custom_colors.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
+import 'package:store_app_b2b/new_module/constant/app_theme_colors_new.dart';
+import 'package:store_app_b2b/new_module/model/color/custom_colors_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
 
 class ThemeController extends GetxController {
   final lightTheme = ThemeData(

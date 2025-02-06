@@ -5,13 +5,13 @@ import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/pdf_viewrscreen.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_app_bar.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_text_field.dart';
+import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller_new.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/pdf_viewrscreen_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_app_bar_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_text_field_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/view_image_dialog.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/view_image_dialog_new.dart';
 
 class AppointmentReportsScreen extends StatefulWidget {
   AppointmentReportsScreen({super.key, required this.index});

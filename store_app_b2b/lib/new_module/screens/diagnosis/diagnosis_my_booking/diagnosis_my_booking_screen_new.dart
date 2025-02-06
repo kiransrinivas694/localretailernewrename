@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_cancelled_screen.dart';
-import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_completed_screen.dart';
-import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_upcoming_screen.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_app_bar.dart';
+import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_cancelled_screen_new.dart';
+import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_completed_screen_new.dart';
+import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_upcoming_screen_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_app_bar_new.dart';
 
 class DiagnosisMyBookingScreen extends StatefulWidget {
   const DiagnosisMyBookingScreen({super.key});

@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:store_app_b2b/new_module/model/appointment/doctor_list_model.dart';
+import 'package:store_app_b2b/new_module/model/appointment/doctor_list_model_new.dart';
 
 DoctorDetailsById doctorDetailsByIdFromJson(String str) =>
     DoctorDetailsById.fromJson(json.decode(str));

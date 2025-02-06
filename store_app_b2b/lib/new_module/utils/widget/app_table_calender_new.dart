@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
-import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
+import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:table_calendar/table_calendar.dart';
 

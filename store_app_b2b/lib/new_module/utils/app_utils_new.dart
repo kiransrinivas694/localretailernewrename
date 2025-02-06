@@ -8,7 +8,7 @@ import 'package:store_app_b2b/utils/shar_preferences_new.dart';
 import 'package:store_app_b2b/widget/app_image_assets_new.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../model/cart/cart_lab_test_model.dart';
+import '../model/cart/cart_lab_test_model_new.dart';
 
 class AppFont {
   static const String montserrat = 'Montserrat';

@@ -22,7 +22,7 @@ import 'package:store_app_b2b/model/product_details_model_new.dart';
 import 'package:store_app_b2b/service/api_service_new.dart';
 import 'package:store_app_b2b/utils/color_extension_new.dart';
 import 'package:store_app_b2b/utils/shar_preferences_new.dart';
-import 'package:store_app_b2b/widget/time_check.dart';
+import 'package:store_app_b2b/widget/time_check_new.dart';
 
 class ProductDetailsScreen extends StatefulWidget {
   final String productId;

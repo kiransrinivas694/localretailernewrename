@@ -24,7 +24,7 @@ import 'package:store_app_b2b/model/search_products_model_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/product_details_screen_new.dart';
 import 'package:store_app_b2b/service/api_service_new.dart';
 import 'package:store_app_b2b/utils/shar_preferences_new.dart';
-import 'package:store_app_b2b/widget/time_check.dart';
+import 'package:store_app_b2b/widget/time_check_new.dart';
 
 class ByProductTab extends StatefulWidget {
   final String categoryId;

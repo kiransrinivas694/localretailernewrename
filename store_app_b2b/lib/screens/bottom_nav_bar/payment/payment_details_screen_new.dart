@@ -11,7 +11,7 @@ import 'package:store_app_b2b/controllers/bottom_controller/payment_controller/p
 import 'package:store_app_b2b/screens/bottom_nav_bar/payment/payment_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/payment/tax_invoice_screen_new.dart';
 import 'package:store_app_b2b/widget/payment_product_tab_new.dart';
-import 'package:store_app_b2b/widget/payment_transaction_tab.dart';
+import 'package:store_app_b2b/widget/payment_transaction_tab_new.dart';
 
 class PaymentDetailsScreen extends StatefulWidget {
   final String orderId;

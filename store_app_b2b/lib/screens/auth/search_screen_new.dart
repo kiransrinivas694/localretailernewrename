@@ -5,7 +5,7 @@ import 'package:b2c/utils/string_extensions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:store_app_b2b/new_module/utils/widget/app_search_box.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_search_box_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 
 class SearchScreen extends StatefulWidget {

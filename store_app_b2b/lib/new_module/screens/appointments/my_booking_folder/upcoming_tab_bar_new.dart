@@ -6,11 +6,11 @@ import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import 'package:store_app_b2b/new_module/constant/app_string.dart';
-import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller.dart';
-import 'package:store_app_b2b/new_module/model/appointment/appointment_history.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/appointment_details_screen.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_search_box.dart';
+import 'package:store_app_b2b/new_module/constant/app_string_new.dart';
+import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller_new.dart';
+import 'package:store_app_b2b/new_module/model/appointment/appointment_history_new.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/appointment_details_screen_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_search_box_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:store_app_b2b/widget/app_image_assets_new.dart';
 

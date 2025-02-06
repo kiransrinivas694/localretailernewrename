@@ -6,9 +6,9 @@ import 'package:get/get.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter_file_dialog/flutter_file_dialog.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
-import 'package:store_app_b2b/new_module/utils/widget/mysaa_app_image_asset.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/mysaa_app_image_asset_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:store_app_b2b/widget/app_image_assets_new.dart';
 

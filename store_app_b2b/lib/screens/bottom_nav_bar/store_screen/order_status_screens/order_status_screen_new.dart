@@ -18,10 +18,10 @@ import 'package:store_app_b2b/screens/bottom_nav_bar/cart_screen/tomorrow_delive
 import 'package:store_app_b2b/screens/bottom_nav_bar/payment/payment_screen_new.dart';
 import 'package:store_app_b2b/utils/shar_preferences_new.dart';
 import 'package:store_app_b2b/widget/grb_cart_overview_tab_new.dart';
-import 'package:store_app_b2b/widget/today_delivery_tab.dart';
-import 'package:store_app_b2b/widget/tomorrow_delivery_tab.dart';
-import 'package:store_app_b2b/widget/unverify_product_tab.dart';
-import 'package:store_app_b2b/widget/verify_product_tab.dart';
+import 'package:store_app_b2b/widget/today_delivery_tab_new.dart';
+import 'package:store_app_b2b/widget/tomorrow_delivery_tab_new.dart';
+import 'package:store_app_b2b/widget/unverify_product_tab_new.dart';
+import 'package:store_app_b2b/widget/verify_product_tab_new.dart';
 
 class OrderStatusScreen extends StatefulWidget {
   final int tabSelect;

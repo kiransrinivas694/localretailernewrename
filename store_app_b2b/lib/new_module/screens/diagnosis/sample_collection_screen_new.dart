@@ -12,16 +12,16 @@ import 'package:intl/intl.dart';
 
 import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:store_app_b2b/constants/loader_new.dart';
-import 'package:store_app_b2b/new_module/constant/app_string.dart';
-import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/diagnosis_controller/sample_collection_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller.dart';
+import 'package:store_app_b2b/new_module/constant/app_string_new.dart';
+import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/diagnosis_controller/sample_collection_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller_new.dart';
 
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_app_bar.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_dropdown.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_text_field.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_app_bar_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_dropdown_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_text_field_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:store_app_b2b/service/api_service_new.dart';
 

@@ -13,16 +13,16 @@ import 'package:store_app_b2b/constants/loader_new.dart';
 import 'package:store_app_b2b/controllers/bottom_controller/cart_controller/cart_controller_new.dart';
 import 'package:store_app_b2b/controllers/bottom_controller/store_controller/network_retailer/nr_cart_controller_new.dart';
 import 'package:store_app_b2b/controllers/bottom_controller/store_controller/store_controller_new.dart';
-import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller.dart';
-import 'package:store_app_b2b/new_module/screens/cart/cart_labtest_screen.dart';
+import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller_new.dart';
+import 'package:store_app_b2b/new_module/screens/cart/cart_labtest_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/cart_screen/order_placed_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/cart_screen/tomorrow_delivery_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/payment/payment_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/network_retailer_screens/nr_verify_product_tab_new.dart';
 import 'package:store_app_b2b/widget/grb_cart_overview_tab_new.dart';
-import 'package:store_app_b2b/widget/tomorrow_delivery_tab.dart';
-import 'package:store_app_b2b/widget/unverify_product_tab.dart';
-import 'package:store_app_b2b/widget/verify_product_tab.dart';
+import 'package:store_app_b2b/widget/tomorrow_delivery_tab_new.dart';
+import 'package:store_app_b2b/widget/unverify_product_tab_new.dart';
+import 'package:store_app_b2b/widget/verify_product_tab_new.dart';
 import '../../../utils/shar_preferences_new.dart';
 
 class CartScreen extends StatefulWidget {

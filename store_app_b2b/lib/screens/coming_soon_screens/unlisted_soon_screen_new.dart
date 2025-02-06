@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:store_app_b2b/components/common_primary_button_new.dart';
 import 'package:store_app_b2b/components/common_text_new.dart';
-import 'package:store_app_b2b/new_module/screens/cart/cart_labtest_screen.dart';
+import 'package:store_app_b2b/new_module/screens/cart/cart_labtest_screen_new.dart';
 
 class UnlistedSoonScreen extends StatefulWidget {
   const UnlistedSoonScreen({super.key});

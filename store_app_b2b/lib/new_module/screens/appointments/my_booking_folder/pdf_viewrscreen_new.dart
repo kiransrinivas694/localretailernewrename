@@ -8,9 +8,9 @@ import 'package:gap/gap.dart';
 import 'package:get/get.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_app_bar.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_text_field.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_app_bar_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_text_field_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 
 class PdfViewScreen extends StatefulWidget {

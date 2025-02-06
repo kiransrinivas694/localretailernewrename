@@ -16,7 +16,7 @@ import 'package:store_app_b2b/controllers/bottom_controller/cart_controller/cart
 import 'package:store_app_b2b/controllers/bottom_controller/store_controller/buy_controller/buy_controller_new.dart';
 import 'package:store_app_b2b/model/cart_model_new.dart';
 import 'package:store_app_b2b/service/api_service_new.dart';
-import 'package:store_app_b2b/widget/time_check.dart';
+import 'package:store_app_b2b/widget/time_check_new.dart';
 
 class CartDetailsScreen extends StatefulWidget {
   CartDetailsScreen({

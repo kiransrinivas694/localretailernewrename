@@ -31,7 +31,7 @@ import 'package:store_app_b2b/controllers/bottom_controller/store_controller/sub
 import 'package:store_app_b2b/controllers/confirm_order_controller_new.dart';
 import 'package:store_app_b2b/controllers/home_controller_new.dart';
 import 'package:store_app_b2b/model/subscription_tenure_model_new.dart';
-import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller.dart';
+import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/buy_screen/buy_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/cart_screen/cart_screen_new.dart';

@@ -25,12 +25,12 @@ import 'package:store_app_b2b/controllers/confirm_order_controller_new.dart';
 import 'package:store_app_b2b/controllers/home_controller_new.dart';
 import 'package:store_app_b2b/delegate/height_delegate_new.dart';
 import 'package:store_app_b2b/model/expiry_products_info_model_new.dart';
-import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/appointments_screen.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/my_bookings_screen.dart';
-import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_my_booking_screen.dart';
-import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_screen.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
+import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller_new.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/appointments_screen_new.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/my_bookings_screen_new.dart';
+import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_my_booking/diagnosis_my_booking_screen_new.dart';
+import 'package:store_app_b2b/new_module/screens/diagnosis/diagnosis_screen_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/generic_medicine_screen/generic_medicine_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/payment/payment_screen_new.dart';
@@ -67,7 +67,7 @@ import 'package:lottie/lottie.dart';
 import 'package:store_app_b2b/utils/shar_preferences_new.dart';
 import 'package:store_app_b2b/widget/app_html_text_new.dart';
 import 'package:store_app_b2b/widget/app_image_assets_new.dart';
-import 'package:store_app_b2b/widget/video_player_widget.dart';
+import 'package:store_app_b2b/widget/video_player_widget_new.dart';
 import 'package:ntp/ntp.dart';
 
 class StoreScreen extends StatefulWidget {

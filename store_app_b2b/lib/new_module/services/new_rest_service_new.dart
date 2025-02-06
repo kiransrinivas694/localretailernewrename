@@ -6,8 +6,8 @@ import 'package:b2c/utils/string_extensions.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart';
 import 'package:http/http.dart' as http;
-import 'package:store_app_b2b/new_module/services/new_apiresponse.dart';
-import 'package:store_app_b2b/new_module/services/new_encryption_service.dart';
+import 'package:store_app_b2b/new_module/services/new_apiresponse_new.dart';
+import 'package:store_app_b2b/new_module/services/new_encryption_service_new.dart';
 import 'package:store_app_b2b/service/api_service_new.dart';
 
 class MysaaApi {

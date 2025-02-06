@@ -19,7 +19,7 @@ import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/grb_module/grb_scheme_return_screen_new.dart';
 import 'package:store_app_b2b/service/api_service_new.dart';
 
-import 'package:store_app_b2b/widget/time_check.dart';
+import 'package:store_app_b2b/widget/time_check_new.dart';
 
 class GrbProductsScreen extends StatefulWidget {
   const GrbProductsScreen({super.key, required this.categoryId});

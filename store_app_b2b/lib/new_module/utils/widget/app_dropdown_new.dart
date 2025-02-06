@@ -1,7 +1,7 @@
 import 'package:dropdown_button2/dropdown_button2.dart';
 import 'package:flutter/material.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 
 class AppDropdown extends StatelessWidget {

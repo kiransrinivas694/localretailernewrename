@@ -2,14 +2,14 @@
 import 'package:b2c/utils/string_extensions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/new_module/constant/app_api_type_constants.dart';
-import 'package:store_app_b2b/new_module/model/lucid/health_package/health_package_model.dart';
-import 'package:store_app_b2b/new_module/model/lucid/health_package/health_packagedetails_model.dart';
-import 'package:store_app_b2b/new_module/model/lucid/health_package/view_healthpackage_model.dart';
-import 'package:store_app_b2b/new_module/services/new_apiresponse.dart';
-import 'package:store_app_b2b/new_module/services/new_rest_service.dart';
-import 'package:store_app_b2b/new_module/services/payloads.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
+import 'package:store_app_b2b/new_module/constant/app_api_type_constants_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/health_package/health_package_model_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/health_package/health_packagedetails_model_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/health_package/view_healthpackage_model_new.dart';
+import 'package:store_app_b2b/new_module/services/new_apiresponse_new.dart';
+import 'package:store_app_b2b/new_module/services/new_rest_service_new.dart';
+import 'package:store_app_b2b/new_module/services/payloads_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
 
 class HealthPackageController extends GetxController
     implements APiResponseFlow {

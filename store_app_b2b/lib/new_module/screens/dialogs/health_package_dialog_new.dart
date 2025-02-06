@@ -3,16 +3,16 @@ import 'package:get/get.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 import 'package:store_app_b2b/components/app_loader_new.dart';
 import 'package:store_app_b2b/controllers/healthpackage_controller/health_package_controller_new.dart';
-import 'package:store_app_b2b/new_module/constant/app_string.dart';
-import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/diagnosis_controller/lucid_controller.dart';
-import 'package:store_app_b2b/new_module/model/lucid/health_package/health_packagedetails_model.dart';
-import 'package:store_app_b2b/new_module/model/lucid/health_package/view_healthpackage_model.dart';
-import 'package:store_app_b2b/new_module/screens/dialogs/custom_bottom_sheet_dialog.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
+import 'package:store_app_b2b/new_module/constant/app_string_new.dart';
+import 'package:store_app_b2b/new_module/controllers/cart_controller/cart_labtest_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/diagnosis_controller/lucid_controller_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/health_package/health_packagedetails_model_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/health_package/view_healthpackage_model_new.dart';
+import 'package:store_app_b2b/new_module/screens/dialogs/custom_bottom_sheet_dialog_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
 import 'package:store_app_b2b/screens/auth/sign_up_2_screen_new.dart';
 
-import '../../controllers/theme/theme_controller.dart';
+import '../../controllers/theme/theme_controller_new.dart';
 
 class HealthPackagesDialog extends StatelessWidget {
   HealthPackagesDialog({

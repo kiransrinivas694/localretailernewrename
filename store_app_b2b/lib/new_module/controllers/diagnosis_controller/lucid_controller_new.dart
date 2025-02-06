@@ -4,15 +4,15 @@ import 'package:b2c/utils/string_extensions.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/new_module/constant/app_api_type_constants.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/model/lucid/find_location_model.dart';
-import 'package:store_app_b2b/new_module/model/lucid/location_id_model.dart';
-import 'package:store_app_b2b/new_module/model/lucid/lucid_list_model.dart';
-import 'package:store_app_b2b/new_module/services/new_apiresponse.dart';
-import 'package:store_app_b2b/new_module/services/new_rest_service.dart';
-import 'package:store_app_b2b/new_module/services/payloads.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
+import 'package:store_app_b2b/new_module/constant/app_api_type_constants_new.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/find_location_model_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/location_id_model_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/lucid_list_model_new.dart';
+import 'package:store_app_b2b/new_module/services/new_apiresponse_new.dart';
+import 'package:store_app_b2b/new_module/services/new_rest_service_new.dart';
+import 'package:store_app_b2b/new_module/services/payloads_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
 
 import 'dart:math' as math;
 

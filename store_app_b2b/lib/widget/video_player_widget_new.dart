@@ -172,7 +172,7 @@ import 'package:store_app_b2b/controllers/video_player_new.dart';
 import 'package:store_app_b2b/widget/app_image_assets_new.dart';
 import 'package:video_player/video_player.dart';
 
-import '../main.dart';
+import '../main_new.dart';
 import 'package:visibility_detector/visibility_detector.dart';
 
 class VideoListWidget extends StatefulWidget {

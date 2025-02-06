@@ -5,8 +5,8 @@ import 'package:store_app_b2b/constants/colors_const_new.dart';
 import 'package:store_app_b2b/controllers/bottom_controller/store_controller/quick_delivery_controller/quick_delivery_controller_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/payment/payment_screen_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/quick_delivery_screen/quick_delivery_refer_screen/quick_delivery_refer_screen_new.dart';
-import 'package:store_app_b2b/widget/quick_delivery_order_history_tab.dart';
-import 'package:store_app_b2b/widget/quick_delivery_place_order_tab.dart';
+import 'package:store_app_b2b/widget/quick_delivery_order_history_tab_new.dart';
+import 'package:store_app_b2b/widget/quick_delivery_place_order_tab_new.dart';
 
 class QuickDeliveryScreen extends StatelessWidget {
   final int tabIndex;

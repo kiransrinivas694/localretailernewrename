@@ -11,7 +11,7 @@ import 'package:store_app_b2b/screens/bottom_nav_bar/payment/payment_screen_new.
 import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/network_retailer_screens/nr_by_date_order_history_tab_new.dart';
 import 'package:store_app_b2b/widget/by_date_order_history_tab_new.dart';
 import 'package:store_app_b2b/widget/by_supplier_order_history_tab_new.dart';
-import 'package:store_app_b2b/widget/unlisted_order_tab.dart';
+import 'package:store_app_b2b/widget/unlisted_order_tab_new.dart';
 
 class OrderHistoryScreen extends StatelessWidget {
   OrderHistoryScreen({Key? key}) : super(key: key);

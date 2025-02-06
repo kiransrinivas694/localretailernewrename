@@ -8,19 +8,19 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
-import 'package:store_app_b2b/new_module/constant/app_api_type_constants.dart';
-import 'package:store_app_b2b/new_module/controllers/diagnosis_controller/sample_collection_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/model/cart/labtest_models/cart_diagnostictests_model.dart';
+import 'package:store_app_b2b/new_module/constant/app_api_type_constants_new.dart';
+import 'package:store_app_b2b/new_module/controllers/diagnosis_controller/sample_collection_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/model/cart/labtest_models/cart_diagnostictests_model_new.dart';
 
-import 'package:store_app_b2b/new_module/model/cart/labtest_models/booking_test_details.dart';
-import 'package:store_app_b2b/new_module/model/cart/labtest_models/lab_test_status_model.dart';
-import 'package:store_app_b2b/new_module/model/lucid/diagnostic_userdetails_model.dart';
-import 'package:store_app_b2b/new_module/model/lucid/find_location_model.dart';
-import 'package:store_app_b2b/new_module/services/new_apiresponse.dart';
-import 'package:store_app_b2b/new_module/services/new_rest_service.dart';
-import 'package:store_app_b2b/new_module/services/payloads.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
+import 'package:store_app_b2b/new_module/model/cart/labtest_models/booking_test_details_new.dart';
+import 'package:store_app_b2b/new_module/model/cart/labtest_models/lab_test_status_model_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/diagnostic_userdetails_model_new.dart';
+import 'package:store_app_b2b/new_module/model/lucid/find_location_model_new.dart';
+import 'package:store_app_b2b/new_module/services/new_apiresponse_new.dart';
+import 'package:store_app_b2b/new_module/services/new_rest_service_new.dart';
+import 'package:store_app_b2b/new_module/services/payloads_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
 import 'package:store_app_b2b/utils/shar_preferences_new.dart'
     as store_app_b2b_shar;
 

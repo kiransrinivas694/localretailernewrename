@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:store_app_b2b/components/common_text_new.dart';
 import 'package:store_app_b2b/constants/colors_const_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/payment/payment_screen_new.dart';
-import 'package:store_app_b2b/widget/tomorrow_delivery_tab.dart';
-import 'package:store_app_b2b/widget/tomorrow_delivery_unavailable_tab.dart';
+import 'package:store_app_b2b/widget/tomorrow_delivery_tab_new.dart';
+import 'package:store_app_b2b/widget/tomorrow_delivery_unavailable_tab_new.dart';
 
 class TomorrowDeliveryScreen extends StatefulWidget {
   const TomorrowDeliveryScreen({super.key});

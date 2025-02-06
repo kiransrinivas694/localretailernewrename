@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller.dart';
-import 'package:store_app_b2b/new_module/controllers/theme/theme_controller.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/cancelled_tab_bar.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/completed_tab_bar.dart';
-import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/upcoming_tab_bar.dart';
-import 'package:store_app_b2b/new_module/utils/app_utils.dart';
-import 'package:store_app_b2b/new_module/utils/widget/app_app_bar.dart';
+import 'package:store_app_b2b/new_module/controllers/booking_appointmet_controller/booking_appointment_controller_new.dart';
+import 'package:store_app_b2b/new_module/controllers/theme/theme_controller_new.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/cancelled_tab_bar_new.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/completed_tab_bar_new.dart';
+import 'package:store_app_b2b/new_module/screens/appointments/my_booking_folder/upcoming_tab_bar_new.dart';
+import 'package:store_app_b2b/new_module/utils/app_utils_new.dart';
+import 'package:store_app_b2b/new_module/utils/widget/app_app_bar_new.dart';
 
 class MyBookingsScreen extends StatefulWidget {
   const MyBookingsScreen({super.key});

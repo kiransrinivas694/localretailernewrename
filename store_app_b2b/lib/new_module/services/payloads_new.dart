@@ -1,4 +1,4 @@
-import 'package:store_app_b2b/new_module/services/new_rest_service.dart';
+import 'package:store_app_b2b/new_module/services/new_rest_service_new.dart';
 
 class Payloads {
   //POST APIS
