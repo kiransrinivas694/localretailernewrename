@@ -1,6 +1,6 @@
 import 'dart:io';
-import 'package:b2c/components/login_dialog.dart';
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/components/login_dialog_new.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:store_app_b2b/components/common_snackbar_new.dart';

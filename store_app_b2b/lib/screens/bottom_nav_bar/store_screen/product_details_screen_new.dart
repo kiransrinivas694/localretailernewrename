@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:b2c/components/login_dialog.dart';
-import 'package:b2c/constants/colors_const.dart';
-import 'package:b2c/controllers/global_main_controller.dart';
-import 'package:b2c/screens/bottom_nav_bar/store_screen/order_screens/new_order_screen.dart';
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/components/login_dialog_new.dart';
+import 'package:b2c/constants/colors_const_new.dart';
+import 'package:b2c/controllers/global_main_controller_new.dart';
+import 'package:b2c/screens/bottom_nav_bar/store_screen/order_screens/new_order_screen_new.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

@@ -1,7 +1,7 @@
 // import 'dart:developer';
 
 // import 'package:b2c/controllers/GetHelperController.dart';
-// import 'package:b2c/screens/dashboard_screen/dashboard_screen.dart';
+// import 'package:b2c/screens/dashboard_screen/dashboard_screen_new.dart';
 // import 'package:flutter/gestures.dart';
 // import 'package:flutter/material.dart';
 // import 'package:flutter/services.dart';
@@ -9,10 +9,10 @@
 // import 'package:google_fonts/google_fonts.dart';
 // import 'package:pinput/pinput.dart';
 // import 'package:store_app_b2b/components/common_primary_button.dart';
-// import 'package:store_app_b2b/components/common_snackbar.dart';
-// import 'package:store_app_b2b/components/common_text.dart';
+// import 'package:store_app_b2b/components/common_snackbar_new.dart';
+// import 'package:store_app_b2b/components/common_text_new.dart';
 // import 'package:store_app_b2b/components/common_text_field.dart';
-// import 'package:store_app_b2b/constants/colors_const.dart';
+// import 'package:store_app_b2b/constants/colors_const_new.dart';
 // import 'package:store_app_b2b/controllers/auth_controller/login_controller.dart';
 // import 'package:store_app_b2b/screens/auth/app_pending_screen.dart';
 // import 'package:store_app_b2b/screens/auth/app_rejected_screen.dart';

@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'dart:developer';
 import 'dart:io';
 import 'package:http/http.dart' as http;
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:store_app_b2b/components/common_snackbar_new.dart';

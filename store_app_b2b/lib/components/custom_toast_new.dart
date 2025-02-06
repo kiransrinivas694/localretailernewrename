@@ -1,4 +1,4 @@
-import 'package:b2c/components/common_text.dart';
+import 'package:b2c/components/common_text_new.dart';
 import 'package:flutter/material.dart';
 import 'package:store_app_b2b/constants/colors_const_new.dart';
 

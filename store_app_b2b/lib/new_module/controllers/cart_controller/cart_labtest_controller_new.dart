@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:b2c/controllers/global_main_controller.dart';
-import 'package:b2c/helper/firebase_gettoken_backup.dart';
-import 'package:b2c/utils/shar_preferences.dart';
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/controllers/global_main_controller_new.dart';
+import 'package:b2c/helper/firebase_gettoken_backup_new.dart';
+import 'package:b2c/utils/shar_preferences_new.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';

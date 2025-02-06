@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
-import 'package:b2c/service/api_service.dart';
+import 'package:b2c/service/api_service_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'dart:developer';

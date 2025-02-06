@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:b2c/components/common_snackbar.dart';
+import 'package:b2c/components/common_snackbar_new.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';

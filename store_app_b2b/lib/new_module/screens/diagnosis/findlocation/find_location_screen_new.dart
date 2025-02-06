@@ -1,4 +1,4 @@
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 import 'package:gap/gap.dart';

@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:developer';
 
-import 'package:b2c/controllers/global_main_controller.dart';
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/controllers/global_main_controller_new.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

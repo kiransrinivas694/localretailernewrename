@@ -1,4 +1,4 @@
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:store_app_b2b/new_module/constant/app_asset_new.dart';

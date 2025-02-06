@@ -1,4 +1,4 @@
-import 'package:b2c/screens/dashboard_screen/dashboard_screen.dart';
+import 'package:b2c/screens/dashboard_screen/dashboard_screen_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:store_app_b2b/components/common_text_new.dart';

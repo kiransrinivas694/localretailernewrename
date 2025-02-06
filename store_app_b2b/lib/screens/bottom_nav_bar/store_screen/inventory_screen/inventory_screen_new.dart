@@ -1,4 +1,4 @@
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

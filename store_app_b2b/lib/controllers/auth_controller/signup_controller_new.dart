@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:b2c/components/login_dialog.dart';
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/components/login_dialog_new.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
@@ -28,7 +28,7 @@ import 'package:store_app_b2b/service/api_service_new.dart';
 import 'package:store_app_b2b/service/location_service_new.dart';
 import 'package:store_app_b2b/utils/shar_preferences_new.dart';
 import 'package:store_app_b2b/utils/validation_utils_new.dart';
-// import 'package:store_app_b2b/utils/string_extensions.dart';
+// import 'package:store_app_b2b/utils/string_extensions_new.dart';
 // import 'package:store_app_b2b/utils/validation_utils.dart';
 
 extension EmailValidator on String {

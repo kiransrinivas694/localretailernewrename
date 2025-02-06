@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';

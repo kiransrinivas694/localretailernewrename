@@ -1,4 +1,4 @@
-import 'package:b2c/utils/font_utils.dart';
+import 'package:b2c/utils/font_utils_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';

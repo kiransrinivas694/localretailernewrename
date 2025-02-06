@@ -1,7 +1,7 @@
 import 'dart:io';
-import 'package:b2c/constants/colors_const.dart';
-import 'package:b2c/screens/auth/sign_up_2_screen.dart';
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/constants/colors_const_new.dart';
+import 'package:b2c/screens/auth/sign_up_2_screen_new.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';

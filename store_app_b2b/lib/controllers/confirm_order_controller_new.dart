@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:b2c/components/login_dialog.dart';
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/components/login_dialog_new.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:get/get.dart';
 import 'package:store_app_b2b/components/common_snackbar_new.dart';
 import 'package:store_app_b2b/model/get_internal_popup_response_model_new.dart';

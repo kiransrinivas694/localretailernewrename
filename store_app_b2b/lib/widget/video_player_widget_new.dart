@@ -164,7 +164,7 @@
 
 // ignore_for_file: deprecated_member_use
 
-import 'package:b2c/constants/colors_const.dart';
+import 'package:b2c/constants/colors_const_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';

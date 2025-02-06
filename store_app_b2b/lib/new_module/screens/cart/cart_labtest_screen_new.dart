@@ -1,4 +1,4 @@
-import 'package:b2c/controllers/global_main_controller.dart';
+import 'package:b2c/controllers/global_main_controller_new.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';

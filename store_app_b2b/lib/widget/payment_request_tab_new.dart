@@ -1,7 +1,7 @@
-import 'package:b2c/constants/colors_const.dart';
-import 'package:b2c/controllers/global_main_controller.dart';
-import 'package:b2c/service/api_service.dart';
-import 'package:b2c/utils/string_extensions.dart';
+import 'package:b2c/constants/colors_const_new.dart';
+import 'package:b2c/controllers/global_main_controller_new.dart';
+import 'package:b2c/service/api_service_new.dart';
+import 'package:b2c/utils/string_extensions_new.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_svg/flutter_svg.dart';

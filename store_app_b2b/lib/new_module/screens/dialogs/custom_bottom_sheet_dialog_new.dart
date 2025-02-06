@@ -1,4 +1,4 @@
-import 'package:b2c/screens/auth/sign_up_2_screen.dart';
+import 'package:b2c/screens/auth/sign_up_2_screen_new.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:get/get.dart';

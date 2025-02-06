@@ -1,15 +1,15 @@
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:b2c/constants/colors_const.dart';
-import 'package:b2c/controllers/dashboard_controller.dart';
-import 'package:b2c/screens/auth/login_screen.dart';
-import 'package:b2c/screens/bottom_nav_bar/account_screens/profile_overview_screen.dart';
-import 'package:b2c/screens/dashboard_screen/dashboard_screen.dart';
-import 'package:b2c/service/remote_config_service.dart';
-import 'package:b2c/service/shared_prefrence/prefrence_helper.dart';
-import 'package:b2c/service/sse_service_controller.dart';
-import 'package:b2c/utils/shar_preferences.dart';
+import 'package:b2c/constants/colors_const_new.dart';
+import 'package:b2c/controllers/dashboard_controller_new.dart';
+import 'package:b2c/screens/auth/login_screen_new.dart';
+import 'package:b2c/screens/bottom_nav_bar/account_screens/profile_overview_screen_new.dart';
+import 'package:b2c/screens/dashboard_screen/dashboard_screen_new.dart';
+import 'package:b2c/service/remote_config_service_new.dart';
+import 'package:b2c/service/shared_prefrence/prefrence_helper_new.dart';
+import 'package:b2c/service/sse_service_controller_new.dart';
+import 'package:b2c/utils/shar_preferences_new.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -43,7 +43,7 @@ import 'package:store_app_b2b/service/api_service_new.dart';
 import 'package:store_app_b2b/screens/bottom_nav_bar/store_screen/buy_screen/categories_screen_new.dart';
 import 'package:store_app_b2b/widget/app_image_assets_new.dart';
 import '../../model/subscription_popup_response_model_new.dart';
-import 'package:b2c/utils/shar_preferences.dart' as b2c_ref;
+import 'package:b2c/utils/shar_preferences_new.dart' as b2c_ref;
 
 import 'package:store_app_b2b/utils/shar_preferences_new.dart' as store_app_b2b;
 

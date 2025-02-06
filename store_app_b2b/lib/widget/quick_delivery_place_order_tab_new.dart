@@ -1,4 +1,4 @@
-import 'package:b2c/components/common_snackbar.dart';
+import 'package:b2c/components/common_snackbar_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:store_app_b2b/components/common_radio_button_new.dart';

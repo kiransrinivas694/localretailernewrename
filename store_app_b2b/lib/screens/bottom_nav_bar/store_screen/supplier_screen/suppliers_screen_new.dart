@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:b2c/components/login_dialog.dart';
+import 'package:b2c/components/login_dialog_new.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';

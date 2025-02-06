@@ -1,5 +1,5 @@
-import 'package:b2c/controllers/global_main_controller.dart';
-import 'package:b2c/screens/bottom_nav_bar/store_screen/order_screens/order_review_screens/invoicecontroller.dart';
+import 'package:b2c/controllers/global_main_controller_new.dart';
+import 'package:b2c/screens/bottom_nav_bar/store_screen/order_screens/order_review_screens/invoicecontroller_new.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:gap/gap.dart';

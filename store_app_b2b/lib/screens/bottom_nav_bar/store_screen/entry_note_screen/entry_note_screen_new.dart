@@ -1,4 +1,4 @@
-import 'package:b2c/constants/colors_const.dart';
+import 'package:b2c/constants/colors_const_new.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';

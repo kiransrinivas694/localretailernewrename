@@ -1,8 +1,8 @@
-// import 'package:b2c/components/login_dialog.dart';
+// import 'package:b2c/components/login_dialog_new.dart';
 // import 'package:flutter/material.dart';
 // import 'package:get/get.dart';
-// import 'package:store_app_b2b/components/common_text.dart';
-// import 'package:store_app_b2b/constants/colors_const.dart';
+// import 'package:store_app_b2b/components/common_text_new.dart';
+// import 'package:store_app_b2b/constants/colors_const_new.dart';
 // import 'package:store_app_b2b/controllers/bottom_controller/store_controller/buy_controller/categories_controller.dart';
 // import 'package:store_app_b2b/controllers/bottom_controller/store_controller/store_controller.dart';
 // import 'package:store_app_b2b/controllers/home_controller.dart';
